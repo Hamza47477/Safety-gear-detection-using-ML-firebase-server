@@ -19,15 +19,7 @@ import pyrebase
 # Configure Firebase project settings
 firebaseConfig = {
     
-  'apiKey': "AIzaSyDvmbyb_1nzs3lEeJzOclQclwT1Jo-ywaQ",
-  'authDomain': "safety-gear-detection-system.firebaseapp.com",
-  'projectId': "safety-gear-detection-system",
-  'storageBucket': "safety-gear-detection-system.appspot.com",
-  'messagingSenderId': "738051321837",
-  'appId': "1:738051321837:web:9b9e71b5ff9d8aeb91c1e4",
-  'measurementId': "G-167BZWLW9P",
-  'databaseURL' : 'https://safety-gear-detection-system-default-rtdb.firebaseio.com/'
-  
+#####
   }
 
 # Initialize Pyrebase
